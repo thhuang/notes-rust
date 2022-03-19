@@ -1,0 +1,8 @@
+[package]
+name = "preventing_reference_cycle_turning_an_rc_t_into_a_weak_t"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

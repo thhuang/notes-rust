@@ -1,0 +1,8 @@
+[package]
+name = "having_multiple_owners_of_mutable_data_by_combining_rc_t_and_refcell_t"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
